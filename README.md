@@ -1,6 +1,6 @@
 # E-coupon Distribution Application (EC-APP)
 
-The files uploaded in this repository are the formal verification and proof of concept of the protocol proposed in the paper with the title "Anonymous Location-Based Advertising with Fine-Grained Statistics", anonymously submitted to The 20th International Workshop on Security (IWSEC 2025).
+The files uploaded in this repository are the formal verification and proof of concept of the protocol proposed in the paper with the title "Anonymous Location-Based Advertising with Fine-Grained Statistics", by Gizem Akman, Kuan Eeik Tan, and Valtteri Niemi, which is accepted to the 12th International Conference on Information Systems Security and Privacy (ICISSP 2026).
 
 
 ## Proof of Concept
