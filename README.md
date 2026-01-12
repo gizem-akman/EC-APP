@@ -2,6 +2,7 @@
 
 The files uploaded in this repository are the formal verification and proof of concept of the protocol proposed in the paper with the title "Anonymous Location-Based Advertising with Fine-Grained Statistics", by Gizem Akman, Kuan Eeik Tan, and Valtteri Niemi, which is accepted to the 12th International Conference on Information Systems Security and Privacy (ICISSP 2026).
 
+The authors of the paper thank Mohamed Taoufiq Damir for his help in making the paper possible.
 
 ## Proof of Concept
 
