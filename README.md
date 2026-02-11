@@ -4,6 +4,11 @@ The files uploaded in this repository are the formal verification and proof of c
 
 The authors of the paper thank Mohamed Taoufiq Damir for his help in making the paper possible.
 
+## Supplementary information for the paper
+
+- **Variation1.md** Presents the communication flow of Variation 1 and explains the steps.
+- **PerformanceAnalysis.md** Includes the benchmarking and detailed breakdown of the performance analysis.
+
 ## Proof of Concept
 
 The implementation is done using Python and consists of seven scripts:
