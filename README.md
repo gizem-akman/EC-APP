@@ -6,7 +6,7 @@ The authors of the paper thank Mohamed Taoufiq Damir for his help in making the 
 
 ## Supplementary information for the paper
 
-- **Variation1.md** Presents the communication flow of Variation 1 and explains the steps.
+- **Variant1.md** Presents the communication flow of Variant 1 and explains the steps.
 - **PerformanceAnalysis.md** Includes the benchmarking and detailed breakdown of the performance analysis.
 
 ## Proof of Concept
